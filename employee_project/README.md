@@ -1,4 +1,4 @@
-Requirements:
+**Requirements:**
 
 Django==3.1.2
 django-crispy-forms==1.11.0
